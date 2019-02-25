@@ -1,0 +1,2 @@
+python cnvparser.py
+pause
