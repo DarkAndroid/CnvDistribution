@@ -1,1 +1,5 @@
-cnvdb.sqlite
+*.sqlite
+*.bat
+europeanID_pca.txt
+TouchingOfPCA.01.R.pdf
+TouchingOfPCA.01.R_.pdf
